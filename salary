@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Salary Calculator</title>
+</head>
+<body>
+  <h1>Salary Calculator</h1>
+  <form>
+    <label>Hourly Wage:</label>
+    <input type="number" name="wage"><br><br>
+    <label>Hours Worked:</label>
+    <input type="number" name="hours"><br><br>
+    <input type="submit" value="Calculate">
+  </form>
+</body>
+</html>
